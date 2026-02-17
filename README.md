@@ -25,9 +25,17 @@ This project demonstrates advanced SQL Server skills including:
 - Top selling product analytics
 
 ## How to Run
-1. Run 01_Create_Database.sql
-2. Run remaining files in sequence.
-3. Execute sample stored procedure.
+db2-luw-retail-banking-analytics
+ ├── README.md
+ ├── 01_create_database.sql
+ ├── 02_Create_Tables.sql
+ ├── 03_Insert_Data.sql
+ ├── 04_Stored_Procedures.sql
+ ├── 05_Triggers.sql
+ |── 06_Views.sql
+ ├── 07_Indexes.sql
+ ├── 08_Advanced_queries.sql
+
 
 ## Author
 Habiba Anjum
